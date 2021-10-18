@@ -1,0 +1,1 @@
+用来测试调用kotlin/native生成的动态库
